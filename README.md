@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Anwar
-- Maybe I can.. Git... it here("?")
-- 👀 outside of America
-- 🌱 I’m currently learning Python & Javascript
+- 👋 Hi, I’m Laver
+- Virginia(US)
+- 🤔 I'm just wanting to Understand
 - 📫 No Contacts Available At The Moment.
 
 <!---
