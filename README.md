@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Laver
+
 - Virginia(US)
-- 🤔 I'm just wanting to Understand
 - 📫 No Contacts Available At The Moment.
 
 <!---
